@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/vinu68/module-federation#readme",
   "workspaces": [
-    "packages/header"
+    "packages/header",
+    "packages/landing",
+    "packages/container"
   ]
 }
