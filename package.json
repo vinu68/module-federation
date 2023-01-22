@@ -1,0 +1,22 @@
+{
+  "name": "react-module-federation",
+  "version": "1.0.0",
+  "description": "React module federation mono repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinu68/module-federation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinu68/module-federation/issues"
+  },
+  "homepage": "https://github.com/vinu68/module-federation#readme",
+  "workspaces": [
+    "packages/header"
+  ]
+}
